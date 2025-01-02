@@ -21,3 +21,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shrivastava19&show_icons=true&locale=en&layout=compact" alt="Shrivastava19" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shrivastava19&show_icons=true&locale=en" alt="Shrivastava19" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shrivastava19&" alt="Shrivastava19" /></p>
